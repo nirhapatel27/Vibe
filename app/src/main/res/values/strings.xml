@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FlashbackMusicPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_current_track_display">CurrentTrackDisplay</string>
+    <string name="title_activity_flashback">FlashbackActivity</string>
+    <string name="desc">CoverImage</string>
+    <string name="title_activity_album">AlbumActivity</string>
+    <string name="title_activity_album_contents">AlbumContentsActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="client_id">590236166883-l627gphi152bvrfvied867ap136smec9.apps.googleusercontent.com</string>
+    <string name="client_secret_id">KNAyYVOhDcynph4XL75sfYh4</string>
+
+    <string-array name="names">
+        <item>Track Name</item>
+        <item>Artist</item>
+        <item>Album</item>
+        <item>Favorite</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,8 @@
+02-18 23:36:00.186 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025760186
+02-18 23:36:05.329 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025765329
+02-18 23:36:08.663 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025768663
+02-18 23:36:25.262 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025785262
+02-18 23:36:36.643 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025796643
+02-18 23:36:38.061 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025798061
+02-18 23:36:40.277 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025800277
+02-18 23:36:46.862 23614-23614/com.cse110.flashbackmusicplayer D/UserStateSnapshot: Snapshot created at 1519025806862

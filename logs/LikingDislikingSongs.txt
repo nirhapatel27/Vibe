@@ -1,0 +1,260 @@
+02-18 23:13:08.968 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: MainActivity has been created
+02-18 23:13:09.092 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:13:09.092 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:13:09.108 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from _123_go <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+02-18 23:13:09.114 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from after_the_storm <After The Storm, Origins - The Best of Terry Oldfield, Terry Oldfield, 6/11>
+02-18 23:13:09.120 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from america_religious <America Religious, I Will Not Be Afraid (A Sampler), null, 5/7>
+02-18 23:13:09.131 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from at_midnight <At Midnight, I Will Not Be Afraid (A Sampler), null, 4/7>
+02-18 23:13:09.138 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from back_east <Back East, I Will Not Be Afraid (A Sampler), null, 6/7>
+02-18 23:13:09.142 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from beautiful_pain <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+02-18 23:13:09.148 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from blood_on_your_bootheels <Blood On Your Bootheels, I Will Not Be Afraid (A Sampler), null, 1/7>
+02-18 23:13:09.151 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_find_love <Can't Find Love, Love Is Everywhere, Stacy Jones, 2/11>
+02-18 23:13:09.155 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_you_be_mine <Can't You Be Mine, Love Is Everywhere, Stacy Jones, 6/11>
+02-18 23:13:09.158 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from crane_city <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+02-18 23:13:09.162 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from currently <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+02-18 23:13:09.165 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dead_dove_do_not_eat <Dead Dove Do Not Eat, Take Yourself Too Seriously, Forum, 2/6>
+02-18 23:13:09.168 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dreamatorium <Dreamatorium, Take Yourself Too Seriously, Forum, 5/6>
+02-18 23:13:09.172 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from flight_of_the_eagle <Flight of the Eagle, Origins - The Best of Terry Oldfield, Terry Oldfield, 2/11>
+02-18 23:13:09.176 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from gotta_get_over_you <Gotta Get Over You, Love Is Everywhere, Stacy Jones, 8/11>
+02-18 23:13:09.179 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from hero_hell <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+02-18 23:13:09.184 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_fell_in_love <I Fell In Love, Love Is Everywhere, Stacy Jones, 5/11>
+02-18 23:13:09.187 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_just_want_to_tell_you_both_good_luck <I Just Want To Tell You Both Good Luck, Take Yourself Too Seriously, Forum, 6/6>
+02-18 23:13:09.196 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_will_not_be_afraid <I Will Not Be Afraid, I Will Not Be Afraid (A Sampler), null, 7/7>
+02-18 23:13:09.200 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from ill_be_on_my_way <I'll Be On My Way, Love Is Everywhere, Stacy Jones, 11/11>
+02-18 23:13:09.202 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from just_this_side_of_insane <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+02-18 23:13:09.205 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from lift_me_up <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+02-18 23:13:09.210 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from love_is_everywhere_1 <Love Is Everywhere 1, Love Is Everywhere, Stacy Jones, 9/11>
+02-18 23:13:09.213 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mangalam <Mangalam, Origins - The Best of Terry Oldfield, Terry Oldfield, 10/11>
+02-18 23:13:09.219 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mojo_potion_61_49 <mojo potion #61/49, Love Is Everywhere, Stacy Jones, 1/11>
+02-18 23:13:09.224 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from om_namo_bhavagate <Om Namo Bhavagate, Origins - The Best of Terry Oldfield, Terry Oldfield, 11/11>
+02-18 23:13:09.232 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from one_stop_light <One Stop Light, Love Is Everywhere, Stacy Jones, 7/11>
+02-18 23:13:09.235 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from origin <Origin, Origins - The Best of Terry Oldfield, Terry Oldfield, 1/11>
+02-18 23:13:09.238 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from other_side <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+02-18 23:13:09.241 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from reach_out <Reach Out, Origins - The Best of Terry Oldfield, Terry Oldfield, 4/11>
+02-18 23:13:09.245 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from set_me_free <Set Me Free, Origins - The Best of Terry Oldfield, Terry Oldfield, 9/11>
+02-18 23:13:09.248 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sisters_of_the_sun <Sisters Of The Sun, Take Yourself Too Seriously, Forum, 3/6>
+02-18 23:13:09.252 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_dancer <Sky Dancer, Origins - The Best of Terry Oldfield, Terry Oldfield, 3/11>
+02-18 23:13:09.254 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_full_of_ghosts <Sky Full Of Ghosts, Take Yourself Too Seriously, Forum, 4/6>
+02-18 23:13:09.257 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from stomp_jump_boogie <Stomp Jump Boogie, Love Is Everywhere, Stacy Jones, 4/11>
+02-18 23:13:09.261 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from the_writing_on_the_wall <The Writing On The Wall, Origins - The Best of Terry Oldfield, Terry Oldfield, 5/11>
+02-18 23:13:09.265 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tightrope_walker <Tightrope Walker, I Will Not Be Afraid (A Sampler), null, 2/7>
+02-18 23:13:09.269 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tough_girls_never_cry <Tough Girls Never Cry, Love Is Everywhere, Stacy Jones, 10/11>
+02-18 23:13:09.271 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from unstoppable <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+02-18 23:13:09.275 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wait_for_heaven <Wait For Heaven, Love Is Everywhere, Stacy Jones, 3/11>
+02-18 23:13:09.278 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from waves <Waves, Origins - The Best of Terry Oldfield, Terry Oldfield, 8/11>
+02-18 23:13:09.281 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_i_go <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+02-18 23:13:09.286 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_you_go <When You Go, I Will Not Be Afraid (A Sampler), null, 3/7>
+02-18 23:13:09.294 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wilderness <Wilderness, Origins - The Best of Terry Oldfield, Terry Oldfield, 7/11>
+02-18 23:13:09.298 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from windows_are_the_eyes_to_the_house <Windows Are The Eyes To The House, Take Yourself Too Seriously, Forum, 1/6>
+02-18 23:13:09.328 21213-21231/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 1
+02-18 23:13:09.328 21213-21231/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 0
+02-18 23:13:09.338 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglCreateContext: 0xb6a85300: maj 2 min 0 rcv 2
+02-18 23:13:09.359 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:09.373 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:11.270 21213-21213/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:13:11.427 21213-21213/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:13:11.427 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:13:11.507 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Opened tracks list
+02-18 23:13:12.194 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song 123 Go
+02-18 23:13:12.198 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:13:12.216 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:13:12.216 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:13:12.218 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:13:12.218 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:13:12.218 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:13:12.218 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:13 pm
+02-18 23:13:12.229 21213-21213/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:13:12.277 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:13:12.279 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:13:12.280 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:13:12.284 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:12.284 21213-21213/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:13:12.336 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:12.370 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:12.380 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:12.393 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:12.402 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:14.392 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:14.393 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now FAVORITED
+02-18 23:13:14.396 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to favorite
+02-18 23:13:16.634 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Sent STOP message to mediaservice
+02-18 23:13:16.634 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now DISLIKED
+02-18 23:13:16.636 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to dislike
+02-18 23:13:16.637 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_STOP
+02-18 23:13:16.641 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:18.359 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:13:18.360 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:13:18.360 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now NEUTRAL
+02-18 23:13:18.360 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:13:18.361 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:13:18.373 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:13:18.373 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:13:18.374 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:13:18.374 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:13 pm
+02-18 23:13:18.381 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:18.381 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:18.381 21213-21213/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:13:21.270 21213-21213/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:13:21.409 21213-21213/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:13:21.409 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:13:22.259 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now FAVORITED
+02-18 23:13:22.260 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to favorite
+02-18 23:13:23.384 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:13:23.385 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.023501937315379598
+02-18 23:13:23.385 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:13:23.385 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.023501937315379598
+02-18 23:13:23.385 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:13:23.742 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:13:23.793 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:23.808 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:23.829 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:25.391 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:25.637 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song 123 Go
+02-18 23:13:25.640 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go . Same as the current song we were playing.
+02-18 23:13:25.647 21213-21213/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:13:25.665 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:13:25.666 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to favorite
+02-18 23:13:25.666 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:13:25.718 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:25.739 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:25.759 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:25.775 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:25.786 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:25.789 21213-21231/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88ae800 (ListView) with handle 0x9cef14b0
+02-18 23:13:27.091 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:27.092 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Sent STOP message to mediaservice
+02-18 23:13:27.093 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now DISLIKED
+02-18 23:13:27.093 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to dislike
+02-18 23:13:27.093 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_STOP
+02-18 23:13:27.108 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:27.108 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:27.108 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:28.424 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:13:28.470 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:28.486 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:28.510 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:29.555 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song 123 Go
+02-18 23:13:29.559 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:13:29.559 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:13:29.562 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:29.567 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:13:29.567 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: The song is disliked
+02-18 23:13:29.576 21213-21213/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:13:29.594 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:13:29.596 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to dislike
+02-18 23:13:29.596 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:13:29.599 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:29.599 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:29.599 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:29.599 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:29.637 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:29.654 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:29.667 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:29.679 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:29.687 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:29.691 21213-21231/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88ae800 (ListView) with handle 0x9cef19d0
+02-18 23:13:30.825 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:30.826 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:13:30.827 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:13:30.827 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now NEUTRAL
+02-18 23:13:30.827 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:13:30.827 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:13:30.838 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:13:30.838 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:13:30.838 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:13:30.838 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:13 pm
+02-18 23:13:30.845 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:30.845 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:30.845 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:30.845 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:30.845 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:30.845 21213-21213/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:13:31.271 21213-21213/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:13:31.403 21213-21213/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:13:31.404 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:13:32.774 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:13:32.823 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:32.840 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:32.860 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:33.775 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:33.830 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song Can't Find Love
+02-18 23:13:33.835 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Can't Find Love. This is a different song from before.
+02-18 23:13:33.836 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:13:33.855 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been destroyed
+02-18 23:13:33.856 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:13:33.856 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:13:33.857 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:13:33.858 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:13:33.858 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:13:33.858 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:13 pm
+02-18 23:13:33.870 21213-21213/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:13:33.882 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:13:33.885 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:13:33.885 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:13:33.888 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:33.888 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:33.888 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:33.888 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:33.888 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:33.888 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't Find Love false
+02-18 23:13:33.889 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't Find Love false
+02-18 23:13:33.889 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't Find Love false
+02-18 23:13:33.889 21213-21213/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:13:33.893 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't Find Love false
+02-18 23:13:33.893 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't Find Love false
+02-18 23:13:33.898 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:13:33.944 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:13:33.944 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:13:33.944 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:13:33.944 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:13:33.944 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:13:33.944 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:13:33.945 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:13:33.945 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:13:33.945 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:13:33.946 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:13:33.951 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:33.970 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:33.992 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:34.008 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:34.019 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:34.022 21213-21231/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88ae800 (ListView) with handle 0x9cef1b10
+02-18 23:13:35.091 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:35.109 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now FAVORITED
+02-18 23:13:35.109 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to favorite
+02-18 23:13:36.642 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:13:36.686 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:36.704 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:36.726 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:37.625 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:37.677 21213-21213/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song 123 Go
+02-18 23:13:37.682 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is a different song from before.
+02-18 23:13:37.683 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:13:37.709 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been destroyed
+02-18 23:13:37.710 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:13:37.710 21213-21213/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:13:37.711 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:13:37.711 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:13:37.711 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:13:37.711 21213-21213/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:13 pm
+02-18 23:13:37.719 21213-21213/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:13:37.730 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:13:37.741 21213-21213/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:13:37.741 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:13:37.750 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:37.750 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:37.750 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:37.750 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:37.750 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:13:37.751 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:37.751 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:37.751 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:37.751 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:37.751 21213-21213/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:13:37.751 21213-21213/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:13:37.801 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:37.821 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:37.841 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:37.860 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:37.869 21213-21231/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832d0)
+02-18 23:13:37.873 21213-21231/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88ae800 (ListView) with handle 0x9cef19d0

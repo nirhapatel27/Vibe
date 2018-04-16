@@ -1,0 +1,22 @@
+02-18 23:37:15.830 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:37:15.830 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:37:16.539 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 32.962898333333335 -117.24899833333332
+02-18 23:37:21.755 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:37:21.755 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:37:21.755 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:37:21.755 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:37 pm
+02-18 23:37:25.394 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:37:25.394 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:37:25.394 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:37:25.395 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:37 pm
+02-18 23:37:26.555 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 32.962898333333335 -117.24899833333332
+02-18 23:37:32.839 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 100.0
+02-18 23:37:42.194 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:37:42.194 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:37:42.200 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:37:42.200 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:37:42.245 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:37:42.245 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:37:42.245 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:37:42.245 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:37 pm
+02-18 23:37:42.821 23818-23818/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 100.0

@@ -1,0 +1,24 @@
+03-17 06:04:56.130 1742-4053/system_process I/ActivityManager: START u0 {cmp=com.cse110.flashbackmusicplayer/.VibeActivity} from uid 10085
+03-17 06:04:56.157 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: VibeActivity has been created
+03-17 06:04:56.186 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Crane City
+03-17 06:04:56.480 9992-10165/com.cse110.flashbackmusicplayer D/FA: Logging event (FE): screen_view(_vs), Bundle[{firebase_event_origin(_o)=auto, firebase_previous_class(_pc)=MainActivity, firebase_previous_id(_pi)=-3834626289090459710, firebase_screen_class(_sc)=VibeActivity, firebase_screen_id(_si)=-3834626289090459706}]
+03-17 06:04:56.585 1742-1764/system_process I/ActivityManager: Displayed com.cse110.flashbackmusicplayer/.VibeActivity: +430ms
+03-17 06:05:04.676 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:04.679 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Dreaming of Home
+03-17 06:05:14.426 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:14.428 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Onward Float, Ptdot I
+03-17 06:05:16.495 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:16.506 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Euphoria
+03-17 06:05:21.055 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:21.065 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Crystallik Strangers
+03-17 06:05:25.769 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:25.786 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Spiraling Stars
+03-17 06:05:28.768 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:28.772 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Internal Beauty
+03-17 06:05:31.761 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:31.778 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Negative Light
+03-17 06:05:35.209 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Skipped a track
+03-17 06:05:35.214 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Transmission 002: The Blackhole
+03-17 06:05:47.033 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song 123 Go
+03-17 06:06:16.772 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Crane City
+03-17 06:06:23.544 9992-9992/com.cse110.flashbackmusicplayer D/VibeActivity: Retrieved song Dreaming of Home

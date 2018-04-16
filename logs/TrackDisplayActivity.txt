@@ -1,0 +1,7 @@
+02-18 23:33:40.512 23373-23373/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:33:43.680 23373-23373/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:33:47.919 23373-23373/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:34:03.610 23373-23373/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:34:06.000 23373-23373/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:34:08.909 23373-23373/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:34:12.200 23373-23373/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created

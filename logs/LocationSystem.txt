@@ -1,0 +1,30 @@
+02-18 23:24:20.207 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:24:20.378 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:24:24.133 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 1.0
+02-18 23:24:24.309 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:24:34.134 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 1.0
+02-18 23:24:34.299 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:24:39.694 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.962898333333335 -117.24899833333332
+02-18 23:24:39.942 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 3098 Racetrack View Drive
+02-18 23:24:49.694 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.962898333333335 -117.24899833333332
+02-18 23:24:49.945 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 3098 Racetrack View Drive
+02-18 23:24:57.304 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.8817 -117.24099833333334
+02-18 23:24:57.602 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is Ridge Walk
+02-18 23:24:58.297 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.89209833333334 -117.24099833333334
+02-18 23:24:58.540 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 350 North Torrey Pines Road
+02-18 23:24:59.297 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.920098333333335 -117.24899833333332
+02-18 23:24:59.526 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is North Torrey Pines Road
+02-18 23:25:00.297 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.932898333333334 -117.26
+02-18 23:25:00.519 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 12600 North Torrey Pines Road
+02-18 23:25:01.300 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.94769833333333 -117.26099833333335
+02-18 23:25:01.539 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 358-386 South Camino Del Mar
+02-18 23:25:02.296 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.955198333333335 -117.25600000000001
+02-18 23:25:02.536 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 860-898 Crest Road
+02-18 23:25:03.296 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.9615 -117.25600000000001
+02-18 23:25:03.549 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 1439 San Dieguito Drive
+02-18 23:25:04.297 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.9628 -117.25499833333333
+02-18 23:25:04.549 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 2829 Racetrack View Drive
+02-18 23:25:05.299 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.9624 -117.25199833333333
+02-18 23:25:05.560 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 2839 Racetrack View Drive
+02-18 23:25:06.295 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 32.962898333333335 -117.24899833333332
+02-18 23:25:06.521 22508-22508/com.cse110.flashbackmusicplayer D/LocationSystem: The place is 3098 Racetrack View Drive

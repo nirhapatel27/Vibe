@@ -1,0 +1,42 @@
+03-16 02:32:34.896 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/123-go.mp3 <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+03-16 02:32:45.591 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/beautiful-pain.mp3 <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+03-16 02:32:46.244 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/crane-city.mp3 <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+03-16 02:32:46.813 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/currently.mp3 <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+03-16 02:32:47.371 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/hero-hell.mp3 <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+03-16 02:32:47.951 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/just-this-side-of-insane.mp3 <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+03-16 02:32:48.524 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/lift-me-up.mp3 <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+03-16 02:32:49.636 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/other-side.mp3 <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+03-16 02:32:50.345 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/unstoppable.mp3 <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+03-16 02:32:50.998 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/when-i-go.mp3 <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+03-16 02:33:53.418 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/123-go.mp3 <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+03-16 02:35:34.003 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/beautiful-pain.mp3 <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+03-16 02:35:34.010 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/crane-city.mp3 <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+03-16 02:35:34.018 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/currently.mp3 <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+03-16 02:35:34.026 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/hero-hell.mp3 <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+03-16 02:35:34.033 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/just-this-side-of-insane.mp3 <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+03-16 02:35:34.041 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/lift-me-up.mp3 <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+03-16 02:35:34.053 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/other-side.mp3 <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+03-16 02:35:34.064 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/unstoppable.mp3 <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+03-16 02:35:34.075 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/when-i-go.mp3 <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+03-16 02:35:34.246 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/123-go.mp3 <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+03-16 02:35:34.258 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/beautiful-pain.mp3 <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+03-16 02:35:34.269 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/crane-city.mp3 <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+03-16 02:35:34.281 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/currently.mp3 <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+03-16 02:35:34.288 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/hero-hell.mp3 <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+03-16 02:35:34.298 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/just-this-side-of-insane.mp3 <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+03-16 02:35:34.311 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/lift-me-up.mp3 <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+03-16 02:35:34.320 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/other-side.mp3 <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+03-16 02:35:34.331 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/unstoppable.mp3 <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+03-16 02:35:34.341 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/when-i-go.mp3 <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+03-16 02:35:50.928 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/123-go.mp3 <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+03-16 02:35:50.945 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/beautiful-pain.mp3 <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+03-16 02:35:50.954 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/crane-city.mp3 <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+03-16 02:35:50.963 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/currently.mp3 <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+03-16 02:35:50.975 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/hero-hell.mp3 <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+03-16 02:35:50.986 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/just-this-side-of-insane.mp3 <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+03-16 02:35:50.997 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/lift-me-up.mp3 <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+03-16 02:35:51.007 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/other-side.mp3 <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+03-16 02:35:51.018 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/unstoppable.mp3 <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+03-16 02:35:51.029 3760-3760/? D/DownloadSystem: Loaded song from /storage/emulated/0/Download/when-i-go.mp3 <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+03-16 02:36:20.607 3760-3760/? D/DownloadSystem: Loaded song from file:///storage/emulated/0/Download/wilderness.mp3 <Wilderness, Origins - The Best of Terry Oldfield, Terry Oldfield, 7/11>
+03-16 02:37:35.888 3760-3760/? D/DownloadSystem: Loaded song from file:///storage/emulated/0/Download/wilderness.mp3 <Wilderness, Origins - The Best of Terry Oldfield, Terry Oldfield, 7/11>

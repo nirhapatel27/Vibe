@@ -1,0 +1,18 @@
+02-18 23:22:47.829 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: AlbumActivity has been created
+02-18 23:22:47.895 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song Windows Are The Eyes To The House
+02-18 23:22:53.509 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:22:53.525 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song Dead Dove Do Not Eat
+02-18 23:22:57.526 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song Sisters Of The Sun
+02-18 23:23:00.844 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:23:00.859 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song Sky Full Of Ghosts
+02-18 23:23:05.126 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:23:05.142 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song Dreamatorium
+02-18 23:23:06.592 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:23:06.593 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song I Just Want To Tell You Both Good Luck
+02-18 23:23:08.253 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:23:10.677 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:23:11.892 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:23:14.727 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: AlbumActivity has been created
+02-18 23:23:14.746 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song Origin
+02-18 23:23:20.142 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Skipped a track
+02-18 23:23:20.144 22301-22301/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song Flight of the Eagle

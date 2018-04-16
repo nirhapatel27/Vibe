@@ -1,0 +1,29 @@
+02-18 23:27:46.652 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:27:46.653 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:27:50.792 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_STOP
+02-18 23:27:55.646 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:27:55.646 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: The song is disliked
+02-18 23:27:58.546 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:28:03.572 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:06.908 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_PAUSE
+02-18 23:28:10.175 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_PLAY
+02-18 23:28:10.178 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:15.184 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:20.189 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:23.195 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:28:23.210 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:28.213 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:33.220 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:34.893 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track has finished
+02-18 23:28:42.950 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:28:45.310 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_STOP
+02-18 23:28:45.345 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:28:50.352 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:28:50.650 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been destroyed
+02-18 23:28:50.726 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:28:50.726 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:28:54.309 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been destroyed
+02-18 23:29:00.317 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:29:00.317 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:29:05.359 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:29:08.776 22793-22793/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_PAUSE

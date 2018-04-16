@@ -1,0 +1,54 @@
+02-18 23:25:54.196 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: MainActivity has been created
+02-18 23:25:54.301 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from _123_go <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+02-18 23:25:54.306 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from after_the_storm <After The Storm, Origins - The Best of Terry Oldfield, Terry Oldfield, 6/11>
+02-18 23:25:54.315 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from america_religious <America Religious, I Will Not Be Afraid (A Sampler), null, 5/7>
+02-18 23:25:54.322 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from at_midnight <At Midnight, I Will Not Be Afraid (A Sampler), null, 4/7>
+02-18 23:25:54.341 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from back_east <Back East, I Will Not Be Afraid (A Sampler), null, 6/7>
+02-18 23:25:54.344 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from beautiful_pain <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+02-18 23:25:54.359 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from blood_on_your_bootheels <Blood On Your Bootheels, I Will Not Be Afraid (A Sampler), null, 1/7>
+02-18 23:25:54.363 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_find_love <Can't Find Love, Love Is Everywhere, Stacy Jones, 2/11>
+02-18 23:25:54.367 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_you_be_mine <Can't You Be Mine, Love Is Everywhere, Stacy Jones, 6/11>
+02-18 23:25:54.371 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from crane_city <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+02-18 23:25:54.374 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from currently <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+02-18 23:25:54.377 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dead_dove_do_not_eat <Dead Dove Do Not Eat, Take Yourself Too Seriously, Forum, 2/6>
+02-18 23:25:54.382 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dreamatorium <Dreamatorium, Take Yourself Too Seriously, Forum, 5/6>
+02-18 23:25:54.386 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from flight_of_the_eagle <Flight of the Eagle, Origins - The Best of Terry Oldfield, Terry Oldfield, 2/11>
+02-18 23:25:54.392 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from gotta_get_over_you <Gotta Get Over You, Love Is Everywhere, Stacy Jones, 8/11>
+02-18 23:25:54.403 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from hero_hell <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+02-18 23:25:54.411 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_fell_in_love <I Fell In Love, Love Is Everywhere, Stacy Jones, 5/11>
+02-18 23:25:54.415 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_just_want_to_tell_you_both_good_luck <I Just Want To Tell You Both Good Luck, Take Yourself Too Seriously, Forum, 6/6>
+02-18 23:25:54.420 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_will_not_be_afraid <I Will Not Be Afraid, I Will Not Be Afraid (A Sampler), null, 7/7>
+02-18 23:25:54.423 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from ill_be_on_my_way <I'll Be On My Way, Love Is Everywhere, Stacy Jones, 11/11>
+02-18 23:25:54.426 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from just_this_side_of_insane <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+02-18 23:25:54.429 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from lift_me_up <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+02-18 23:25:54.432 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from love_is_everywhere_1 <Love Is Everywhere 1, Love Is Everywhere, Stacy Jones, 9/11>
+02-18 23:25:54.436 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mangalam <Mangalam, Origins - The Best of Terry Oldfield, Terry Oldfield, 10/11>
+02-18 23:25:54.440 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mojo_potion_61_49 <mojo potion #61/49, Love Is Everywhere, Stacy Jones, 1/11>
+02-18 23:25:54.443 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from om_namo_bhavagate <Om Namo Bhavagate, Origins - The Best of Terry Oldfield, Terry Oldfield, 11/11>
+02-18 23:25:54.446 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from one_stop_light <One Stop Light, Love Is Everywhere, Stacy Jones, 7/11>
+02-18 23:25:54.449 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from origin <Origin, Origins - The Best of Terry Oldfield, Terry Oldfield, 1/11>
+02-18 23:25:54.452 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from other_side <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+02-18 23:25:54.455 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from reach_out <Reach Out, Origins - The Best of Terry Oldfield, Terry Oldfield, 4/11>
+02-18 23:25:54.458 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from set_me_free <Set Me Free, Origins - The Best of Terry Oldfield, Terry Oldfield, 9/11>
+02-18 23:25:54.462 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sisters_of_the_sun <Sisters Of The Sun, Take Yourself Too Seriously, Forum, 3/6>
+02-18 23:25:54.465 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_dancer <Sky Dancer, Origins - The Best of Terry Oldfield, Terry Oldfield, 3/11>
+02-18 23:25:54.467 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_full_of_ghosts <Sky Full Of Ghosts, Take Yourself Too Seriously, Forum, 4/6>
+02-18 23:25:54.471 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from stomp_jump_boogie <Stomp Jump Boogie, Love Is Everywhere, Stacy Jones, 4/11>
+02-18 23:25:54.474 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from the_writing_on_the_wall <The Writing On The Wall, Origins - The Best of Terry Oldfield, Terry Oldfield, 5/11>
+02-18 23:25:54.479 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tightrope_walker <Tightrope Walker, I Will Not Be Afraid (A Sampler), null, 2/7>
+02-18 23:25:54.483 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tough_girls_never_cry <Tough Girls Never Cry, Love Is Everywhere, Stacy Jones, 10/11>
+02-18 23:25:54.486 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from unstoppable <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+02-18 23:25:54.489 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wait_for_heaven <Wait For Heaven, Love Is Everywhere, Stacy Jones, 3/11>
+02-18 23:25:54.492 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from waves <Waves, Origins - The Best of Terry Oldfield, Terry Oldfield, 8/11>
+02-18 23:25:54.495 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_i_go <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+02-18 23:25:54.499 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_you_go <When You Go, I Will Not Be Afraid (A Sampler), null, 3/7>
+02-18 23:25:54.502 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wilderness <Wilderness, Origins - The Best of Terry Oldfield, Terry Oldfield, 7/11>
+02-18 23:25:54.505 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from windows_are_the_eyes_to_the_house <Windows Are The Eyes To The House, Take Yourself Too Seriously, Forum, 1/6>
+02-18 23:25:59.462 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Opened tracks list
+02-18 23:26:00.740 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Opened album list
+02-18 23:26:01.764 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Opened tracks list
+02-18 23:26:03.092 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song 123 Go
+02-18 23:26:12.255 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song Blood On Your Bootheels
+02-18 23:26:15.278 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Opened album list
+02-18 23:26:19.206 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Playing album Take Yourself Too Seriously
+02-18 23:26:36.780 22612-22612/com.cse110.flashbackmusicplayer D/MainActivity: Starting flashback mode

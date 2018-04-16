@@ -1,0 +1,118 @@
+02-18 23:29:49.535 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:29:49.611 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:29:49.658 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:29:54.661 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:29:56.168 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go . Same as the current song we were playing.
+02-18 23:29:56.246 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:29:59.662 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:29:59.662 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:02.383 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Can't Find Love. This is a different song from before.
+02-18 23:30:02.438 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:30:02.441 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:02.441 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:02.442 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't Find Love false
+02-18 23:30:02.442 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't Find Love false
+02-18 23:30:07.143 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is a different song from before.
+02-18 23:30:07.180 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:30:07.227 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:07.227 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:07.227 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:30:07.227 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:30:10.910 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go . Same as the current song we were playing.
+02-18 23:30:10.947 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:30:12.231 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:12.231 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:12.231 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:16.770 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:30:16.774 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Windows Are The Eyes To The House. This is a different song from before.
+02-18 23:30:16.830 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:16.831 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:16.831 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:16.831 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Windows Are The Eyes To The House false
+02-18 23:30:16.831 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Windows Are The Eyes To The House false
+02-18 23:30:16.831 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Windows Are The Eyes To The House false
+02-18 23:30:21.836 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:21.836 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:21.836 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:26.625 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Sent STOP message to mediaservice
+02-18 23:30:26.629 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Dead Dove Do Not Eat. This is the first song we are playing.
+02-18 23:30:26.630 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: The next song in the list is Dead Dove Do Not Eat
+02-18 23:30:26.630 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:26.630 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:26.630 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:26.652 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Dead Dove Do Not Eat false
+02-18 23:30:26.652 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Dead Dove Do Not Eat false
+02-18 23:30:26.652 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Dead Dove Do Not Eat false
+02-18 23:30:26.652 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Dead Dove Do Not Eat false
+02-18 23:30:30.525 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Sent STOP message to mediaservice
+02-18 23:30:30.543 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Sisters Of The Sun. This is the first song we are playing.
+02-18 23:30:30.544 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: The next song in the list is Sisters Of The Sun
+02-18 23:30:30.544 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:30.544 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:30.544 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:30.544 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:30.565 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sisters Of The Sun false
+02-18 23:30:30.565 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sisters Of The Sun false
+02-18 23:30:30.565 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sisters Of The Sun false
+02-18 23:30:30.565 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sisters Of The Sun false
+02-18 23:30:30.565 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sisters Of The Sun false
+02-18 23:30:35.569 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:35.570 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:35.570 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:35.570 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:35.570 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:39.837 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Sent STOP message to mediaservice
+02-18 23:30:39.845 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Sky Full Of Ghosts. This is the first song we are playing.
+02-18 23:30:39.846 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: The next song in the list is Sky Full Of Ghosts
+02-18 23:30:39.846 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:39.846 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:39.846 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:39.847 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:39.847 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:39.876 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:39.876 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:39.876 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:39.876 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:39.877 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:39.877 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:44.868 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:44.869 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:44.869 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:44.869 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:44.869 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:44.870 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:45.128 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Sent PAUSE message to mediaservice
+02-18 23:30:45.145 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts true
+02-18 23:30:45.145 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts true
+02-18 23:30:45.145 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts true
+02-18 23:30:45.145 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts true
+02-18 23:30:45.145 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts true
+02-18 23:30:45.145 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts true
+02-18 23:30:45.959 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Sent PLAY message to mediaservice
+02-18 23:30:45.977 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:45.977 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:45.977 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:45.977 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:45.977 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:45.977 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Sky Full Of Ghosts false
+02-18 23:30:45.978 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:45.978 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:45.978 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:45.979 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:45.979 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:45.979 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:48.334 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:30:48.359 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:48.359 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:48.359 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:48.359 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:48.360 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:48.360 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:30:53.319 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Music system destroyed.
+02-18 23:30:53.335 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:53.335 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:53.335 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:53.335 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:53.335 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:30:53.369 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:30:57.628 22984-22984/com.cse110.flashbackmusicplayer D/MusicSystem: Music system destroyed.

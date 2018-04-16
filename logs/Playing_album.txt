@@ -1,0 +1,80 @@
+02-18 23:14:19.770 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: MainActivity has been created
+02-18 23:14:19.856 21386-21386/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:14:19.856 21386-21386/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:14:19.870 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from _123_go <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+02-18 23:14:19.875 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from after_the_storm <After The Storm, Origins - The Best of Terry Oldfield, Terry Oldfield, 6/11>
+02-18 23:14:19.882 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from america_religious <America Religious, I Will Not Be Afraid (A Sampler), null, 5/7>
+02-18 23:14:19.888 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from at_midnight <At Midnight, I Will Not Be Afraid (A Sampler), null, 4/7>
+02-18 23:14:19.910 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from back_east <Back East, I Will Not Be Afraid (A Sampler), null, 6/7>
+02-18 23:14:19.914 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from beautiful_pain <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+02-18 23:14:19.921 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from blood_on_your_bootheels <Blood On Your Bootheels, I Will Not Be Afraid (A Sampler), null, 1/7>
+02-18 23:14:19.924 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_find_love <Can't Find Love, Love Is Everywhere, Stacy Jones, 2/11>
+02-18 23:14:19.928 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_you_be_mine <Can't You Be Mine, Love Is Everywhere, Stacy Jones, 6/11>
+02-18 23:14:19.932 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from crane_city <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+02-18 23:14:19.936 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from currently <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+02-18 23:14:19.939 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dead_dove_do_not_eat <Dead Dove Do Not Eat, Take Yourself Too Seriously, Forum, 2/6>
+02-18 23:14:19.943 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dreamatorium <Dreamatorium, Take Yourself Too Seriously, Forum, 5/6>
+02-18 23:14:19.947 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from flight_of_the_eagle <Flight of the Eagle, Origins - The Best of Terry Oldfield, Terry Oldfield, 2/11>
+02-18 23:14:19.951 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from gotta_get_over_you <Gotta Get Over You, Love Is Everywhere, Stacy Jones, 8/11>
+02-18 23:14:19.954 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from hero_hell <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+02-18 23:14:19.958 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_fell_in_love <I Fell In Love, Love Is Everywhere, Stacy Jones, 5/11>
+02-18 23:14:19.962 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_just_want_to_tell_you_both_good_luck <I Just Want To Tell You Both Good Luck, Take Yourself Too Seriously, Forum, 6/6>
+02-18 23:14:19.967 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_will_not_be_afraid <I Will Not Be Afraid, I Will Not Be Afraid (A Sampler), null, 7/7>
+02-18 23:14:19.970 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from ill_be_on_my_way <I'll Be On My Way, Love Is Everywhere, Stacy Jones, 11/11>
+02-18 23:14:19.973 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from just_this_side_of_insane <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+02-18 23:14:19.975 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from lift_me_up <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+02-18 23:14:19.978 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from love_is_everywhere_1 <Love Is Everywhere 1, Love Is Everywhere, Stacy Jones, 9/11>
+02-18 23:14:19.986 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mangalam <Mangalam, Origins - The Best of Terry Oldfield, Terry Oldfield, 10/11>
+02-18 23:14:19.993 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mojo_potion_61_49 <mojo potion #61/49, Love Is Everywhere, Stacy Jones, 1/11>
+02-18 23:14:20.003 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from om_namo_bhavagate <Om Namo Bhavagate, Origins - The Best of Terry Oldfield, Terry Oldfield, 11/11>
+02-18 23:14:20.006 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from one_stop_light <One Stop Light, Love Is Everywhere, Stacy Jones, 7/11>
+02-18 23:14:20.009 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from origin <Origin, Origins - The Best of Terry Oldfield, Terry Oldfield, 1/11>
+02-18 23:14:20.012 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from other_side <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+02-18 23:14:20.015 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from reach_out <Reach Out, Origins - The Best of Terry Oldfield, Terry Oldfield, 4/11>
+02-18 23:14:20.022 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from set_me_free <Set Me Free, Origins - The Best of Terry Oldfield, Terry Oldfield, 9/11>
+02-18 23:14:20.025 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sisters_of_the_sun <Sisters Of The Sun, Take Yourself Too Seriously, Forum, 3/6>
+02-18 23:14:20.030 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_dancer <Sky Dancer, Origins - The Best of Terry Oldfield, Terry Oldfield, 3/11>
+02-18 23:14:20.033 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_full_of_ghosts <Sky Full Of Ghosts, Take Yourself Too Seriously, Forum, 4/6>
+02-18 23:14:20.037 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from stomp_jump_boogie <Stomp Jump Boogie, Love Is Everywhere, Stacy Jones, 4/11>
+02-18 23:14:20.041 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from the_writing_on_the_wall <The Writing On The Wall, Origins - The Best of Terry Oldfield, Terry Oldfield, 5/11>
+02-18 23:14:20.046 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tightrope_walker <Tightrope Walker, I Will Not Be Afraid (A Sampler), null, 2/7>
+02-18 23:14:20.050 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tough_girls_never_cry <Tough Girls Never Cry, Love Is Everywhere, Stacy Jones, 10/11>
+02-18 23:14:20.053 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from unstoppable <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+02-18 23:14:20.056 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wait_for_heaven <Wait For Heaven, Love Is Everywhere, Stacy Jones, 3/11>
+02-18 23:14:20.060 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from waves <Waves, Origins - The Best of Terry Oldfield, Terry Oldfield, 8/11>
+02-18 23:14:20.062 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_i_go <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+02-18 23:14:20.067 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_you_go <When You Go, I Will Not Be Afraid (A Sampler), null, 3/7>
+02-18 23:14:20.070 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wilderness <Wilderness, Origins - The Best of Terry Oldfield, Terry Oldfield, 7/11>
+02-18 23:14:20.072 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from windows_are_the_eyes_to_the_house <Windows Are The Eyes To The House, Take Yourself Too Seriously, Forum, 1/6>
+02-18 23:14:20.112 21386-21403/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 1
+02-18 23:14:20.112 21386-21403/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 0
+02-18 23:14:20.123 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglCreateContext: 0xb6a85480: maj 2 min 0 rcv 2
+02-18 23:14:20.139 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a831e0)
+02-18 23:14:20.153 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a831e0)
+02-18 23:14:21.273 21386-21386/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:14:21.434 21386-21386/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:14:21.434 21386-21386/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:14:22.265 21386-21386/com.cse110.flashbackmusicplayer D/MainActivity: Playing album New & Best of Keaton Simons
+02-18 23:14:22.279 21386-21386/com.cse110.flashbackmusicplayer D/AlbumActivity: AlbumActivity has been created
+02-18 23:14:22.340 21386-21386/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:14:22.342 21386-21386/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:14:22.343 21386-21386/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:14:22.343 21386-21386/com.cse110.flashbackmusicplayer D/AlbumActivity: Retrieved song 123 Go
+02-18 23:14:22.343 21386-21386/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:14:22.345 21386-21386/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:14:22.346 21386-21386/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:14:22.347 21386-21386/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:14:22.403 21386-21386/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:14:22.403 21386-21386/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:14:22.405 21386-21386/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:14:22.405 21386-21386/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:14:22.405 21386-21386/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:14:22.405 21386-21386/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:14 pm
+02-18 23:14:22.419 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a831e0)
+02-18 23:14:22.458 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a831e0)
+02-18 23:14:22.465 21386-21386/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:14:22.465 21386-21386/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:14:22.473 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a831e0)
+02-18 23:14:22.486 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a831e0)
+02-18 23:14:22.509 21386-21403/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a831e0)
+02-18 23:14:22.515 21386-21403/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88af280 (ListView) with handle 0xb6a83ea0

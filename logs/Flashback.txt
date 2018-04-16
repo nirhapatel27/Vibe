@@ -1,0 +1,15 @@
+02-18 23:38:55.071 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: FlashbackActivity has been created
+02-18 23:38:55.100 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Wilderness
+02-18 23:39:10.764 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Can't Find Love
+02-18 23:39:13.875 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Skipped a track
+02-18 23:39:13.878 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song 123 Go
+02-18 23:39:18.826 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Skipped a track
+02-18 23:39:18.829 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Wilderness
+02-18 23:39:26.025 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Can't Find Love
+02-18 23:39:28.576 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Skipped a track
+02-18 23:39:28.592 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song 123 Go
+02-18 23:39:30.407 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Skipped a track
+02-18 23:39:30.412 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Can't Find Love
+02-18 23:39:30.442 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Skipped a track
+02-18 23:39:30.451 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song 123 Go
+02-18 23:39:39.978 23943-23943/com.cse110.flashbackmusicplayer D/FlashbackActivity: FlashbackActivity has been destroyed

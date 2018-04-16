@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "590236166883",
+    "firebase_url": "https://cse-110-team-project-team-7.firebaseio.com",
+    "project_id": "cse-110-team-project-team-7",
+    "storage_bucket": "cse-110-team-project-team-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590236166883:android:fdaac377272fdd97",
+        "android_client_info": {
+          "package_name": "com.cse110.flashbackmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590236166883-6shic26tm9hthgeo7mcpd6qfeknped8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse110.flashbackmusicplayer",
+            "certificate_hash": "ba4b18f40ad138d39dd254032ce35934ce6d01b1"
+          }
+        },
+        {
+          "client_id": "590236166883-s74lkg7c7iro885mrg6shknms12ktp2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse110.flashbackmusicplayer",
+            "certificate_hash": "9e10467d0e7c6299d668a007565391c32bda9439"
+          }
+        },
+        {
+          "client_id": "590236166883-l627gphi152bvrfvied867ap136smec9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP-XRYGwpWHztznBB2IAiMsVp1N3Mf7oA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590236166883-l627gphi152bvrfvied867ap136smec9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

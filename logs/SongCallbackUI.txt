@@ -1,0 +1,46 @@
+02-18 23:31:37.578 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:31:37.581 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:31:37.582 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:31:37.583 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:31:37.587 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:31:42.652 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.023612230022633983
+02-18 23:31:47.656 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.04760808685310929
+02-18 23:31:50.359 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:31:51.403 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.9623278474699812%
+02-18 23:31:51.442 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.96254843288449
+02-18 23:31:56.551 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9866449917520236
+02-18 23:31:59.229 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:31:59.230 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:31:59.232 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:32:01.876 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now FAVORITED
+02-18 23:32:01.879 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to favorite
+02-18 23:32:03.909 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now DISLIKED
+02-18 23:32:03.911 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to dislike
+02-18 23:32:03.926 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:32:03.930 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:32:03.932 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:32:07.541 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Pause button pressed
+02-18 23:32:08.791 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Pause button pressed
+02-18 23:32:08.813 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.01753563070127865
+02-18 23:32:08.813 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.01753563070127865
+02-18 23:32:08.813 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.01753563070127865
+02-18 23:32:12.391 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Pause button pressed
+02-18 23:32:13.558 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Pause button pressed
+02-18 23:32:13.579 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.035085919215904704
+02-18 23:32:13.580 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.035085919215904704
+02-18 23:32:13.581 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.035085919215904704
+02-18 23:32:17.192 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:32:17.195 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:32:17.196 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:32:20.639 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:32:22.218 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.02193536338088293
+02-18 23:32:22.218 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.02193536338088293
+02-18 23:32:22.218 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.02193536338088293
+02-18 23:32:22.218 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.02193536338088293
+02-18 23:32:24.480 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:32:24.518 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:32:24.520 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to dislike
+02-18 23:32:26.677 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:32:26.678 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Favorite/Dislike/Neutral button pressed. Song is now NEUTRAL
+02-18 23:32:26.678 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:32:28.691 23155-23155/com.cse110.flashbackmusicplayer D/SongCallbackUI: Pause button pressed

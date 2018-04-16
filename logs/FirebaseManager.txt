@@ -1,0 +1,52 @@
+03-17 05:59:04.963 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Crane City
+03-17 05:59:04.965 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Crane City
+03-17 05:59:04.966 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Crystallik Strangers
+03-17 05:59:04.968 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Crystallik Strangers
+03-17 05:59:04.969 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Dreaming of Home
+03-17 05:59:04.969 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Dreaming of Home
+03-17 05:59:04.970 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Enter the Hunter
+03-17 05:59:04.971 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Enter the Hunter
+03-17 05:59:04.971 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Euphoria
+03-17 05:59:04.972 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Euphoria
+03-17 05:59:04.973 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Interlocked
+03-17 05:59:04.974 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Interlocked
+03-17 05:59:04.975 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Internal Beauty
+03-17 05:59:04.976 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Internal Beauty
+03-17 05:59:04.976 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Into the Water
+03-17 05:59:04.977 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Into the Water
+03-17 05:59:04.977 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Negative Light
+03-17 05:59:04.977 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Negative Light
+03-17 05:59:04.978 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Onward Float, Ptdot I
+03-17 05:59:04.979 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Onward Float, Ptdot I
+03-17 05:59:04.979 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Onward Float, Ptdot II
+03-17 05:59:04.979 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Onward Float, Ptdot II
+03-17 05:59:04.980 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Spiraling Stars
+03-17 05:59:04.981 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Spiraling Stars
+03-17 05:59:04.982 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: Transmission 002: The Blackhole
+03-17 05:59:04.983 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song Transmission 002: The Blackhole
+03-17 05:59:04.993 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Crane City has been updated by another user
+03-17 05:59:04.997 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Crane City has been updated by another user
+03-17 05:59:04.998 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Crystallik Strangers has been updated by another user
+03-17 05:59:04.999 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Crystallik Strangers has been updated by another user
+03-17 05:59:05.000 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Dreaming of Home has been updated by another user
+03-17 05:59:05.000 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Dreaming of Home has been updated by another user
+03-17 05:59:05.001 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Euphoria has been updated by another user
+03-17 05:59:05.002 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Euphoria has been updated by another user
+03-17 05:59:05.003 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Internal Beauty has been updated by another user
+03-17 05:59:05.003 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Internal Beauty has been updated by another user
+03-17 05:59:05.004 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Negative Light has been updated by another user
+03-17 05:59:05.004 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Negative Light has been updated by another user
+03-17 05:59:05.005 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Onward Float, Ptdot I has been updated by another user
+03-17 05:59:05.005 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Onward Float, Ptdot I has been updated by another user
+03-17 05:59:05.006 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Spiraling Stars has been updated by another user
+03-17 05:59:05.006 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Spiraling Stars has been updated by another user
+03-17 05:59:05.007 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Transmission 002: The Blackhole has been updated by another user
+03-17 05:59:05.007 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node Transmission 002: The Blackhole has been updated by another user
+03-17 06:02:24.219 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Registered the song 123 Go
+03-17 06:02:24.238 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Added a new child: 123 Go
+03-17 06:04:04.492 9992-10015/com.cse110.flashbackmusicplayer I/FirebaseAuth: [FirebaseAuth:] Loading module via FirebaseOptions.
+03-17 06:04:04.492 9992-10015/com.cse110.flashbackmusicplayer I/FirebaseAuth: [FirebaseAuth:] Preparing to create service connection to gms implementation
+03-17 06:04:37.925 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Updating 123 Go in Firebase database
+03-17 06:04:37.932 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node 123 Go has been updated by another user
+03-17 06:06:16.765 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Updating 123 Go in Firebase database
+03-17 06:06:17.077 9992-9992/com.cse110.flashbackmusicplayer D/Firebase Manager: Firebase song node 123 Go has been updated by another user

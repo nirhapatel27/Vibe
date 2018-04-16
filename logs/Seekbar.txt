@@ -1,0 +1,119 @@
+02-18 23:11:51.765 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: MainActivity has been created
+02-18 23:11:51.855 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:11:51.855 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:11:51.870 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from _123_go <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+02-18 23:11:51.878 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from after_the_storm <After The Storm, Origins - The Best of Terry Oldfield, Terry Oldfield, 6/11>
+02-18 23:11:51.885 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from america_religious <America Religious, I Will Not Be Afraid (A Sampler), null, 5/7>
+02-18 23:11:51.895 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from at_midnight <At Midnight, I Will Not Be Afraid (A Sampler), null, 4/7>
+02-18 23:11:51.901 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from back_east <Back East, I Will Not Be Afraid (A Sampler), null, 6/7>
+02-18 23:11:51.905 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from beautiful_pain <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+02-18 23:11:51.921 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from blood_on_your_bootheels <Blood On Your Bootheels, I Will Not Be Afraid (A Sampler), null, 1/7>
+02-18 23:11:51.927 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_find_love <Can't Find Love, Love Is Everywhere, Stacy Jones, 2/11>
+02-18 23:11:51.931 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_you_be_mine <Can't You Be Mine, Love Is Everywhere, Stacy Jones, 6/11>
+02-18 23:11:51.935 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from crane_city <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+02-18 23:11:51.941 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from currently <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+02-18 23:11:51.945 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dead_dove_do_not_eat <Dead Dove Do Not Eat, Take Yourself Too Seriously, Forum, 2/6>
+02-18 23:11:51.948 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dreamatorium <Dreamatorium, Take Yourself Too Seriously, Forum, 5/6>
+02-18 23:11:51.951 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from flight_of_the_eagle <Flight of the Eagle, Origins - The Best of Terry Oldfield, Terry Oldfield, 2/11>
+02-18 23:11:51.955 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from gotta_get_over_you <Gotta Get Over You, Love Is Everywhere, Stacy Jones, 8/11>
+02-18 23:11:51.957 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from hero_hell <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+02-18 23:11:51.961 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_fell_in_love <I Fell In Love, Love Is Everywhere, Stacy Jones, 5/11>
+02-18 23:11:51.964 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_just_want_to_tell_you_both_good_luck <I Just Want To Tell You Both Good Luck, Take Yourself Too Seriously, Forum, 6/6>
+02-18 23:11:51.968 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_will_not_be_afraid <I Will Not Be Afraid, I Will Not Be Afraid (A Sampler), null, 7/7>
+02-18 23:11:51.971 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from ill_be_on_my_way <I'll Be On My Way, Love Is Everywhere, Stacy Jones, 11/11>
+02-18 23:11:51.974 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from just_this_side_of_insane <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+02-18 23:11:51.976 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from lift_me_up <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+02-18 23:11:51.980 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from love_is_everywhere_1 <Love Is Everywhere 1, Love Is Everywhere, Stacy Jones, 9/11>
+02-18 23:11:51.984 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mangalam <Mangalam, Origins - The Best of Terry Oldfield, Terry Oldfield, 10/11>
+02-18 23:11:51.987 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mojo_potion_61_49 <mojo potion #61/49, Love Is Everywhere, Stacy Jones, 1/11>
+02-18 23:11:51.992 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from om_namo_bhavagate <Om Namo Bhavagate, Origins - The Best of Terry Oldfield, Terry Oldfield, 11/11>
+02-18 23:11:51.996 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from one_stop_light <One Stop Light, Love Is Everywhere, Stacy Jones, 7/11>
+02-18 23:11:52.003 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from origin <Origin, Origins - The Best of Terry Oldfield, Terry Oldfield, 1/11>
+02-18 23:11:52.012 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from other_side <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+02-18 23:11:52.015 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from reach_out <Reach Out, Origins - The Best of Terry Oldfield, Terry Oldfield, 4/11>
+02-18 23:11:52.019 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from set_me_free <Set Me Free, Origins - The Best of Terry Oldfield, Terry Oldfield, 9/11>
+02-18 23:11:52.022 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sisters_of_the_sun <Sisters Of The Sun, Take Yourself Too Seriously, Forum, 3/6>
+02-18 23:11:52.025 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_dancer <Sky Dancer, Origins - The Best of Terry Oldfield, Terry Oldfield, 3/11>
+02-18 23:11:52.028 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_full_of_ghosts <Sky Full Of Ghosts, Take Yourself Too Seriously, Forum, 4/6>
+02-18 23:11:52.032 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from stomp_jump_boogie <Stomp Jump Boogie, Love Is Everywhere, Stacy Jones, 4/11>
+02-18 23:11:52.035 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from the_writing_on_the_wall <The Writing On The Wall, Origins - The Best of Terry Oldfield, Terry Oldfield, 5/11>
+02-18 23:11:52.052 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tightrope_walker <Tightrope Walker, I Will Not Be Afraid (A Sampler), null, 2/7>
+02-18 23:11:52.056 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tough_girls_never_cry <Tough Girls Never Cry, Love Is Everywhere, Stacy Jones, 10/11>
+02-18 23:11:52.059 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from unstoppable <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+02-18 23:11:52.062 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wait_for_heaven <Wait For Heaven, Love Is Everywhere, Stacy Jones, 3/11>
+02-18 23:11:52.066 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from waves <Waves, Origins - The Best of Terry Oldfield, Terry Oldfield, 8/11>
+02-18 23:11:52.068 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_i_go <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+02-18 23:11:52.073 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_you_go <When You Go, I Will Not Be Afraid (A Sampler), null, 3/7>
+02-18 23:11:52.075 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wilderness <Wilderness, Origins - The Best of Terry Oldfield, Terry Oldfield, 7/11>
+02-18 23:11:52.078 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from windows_are_the_eyes_to_the_house <Windows Are The Eyes To The House, Take Yourself Too Seriously, Forum, 1/6>
+02-18 23:11:52.088 21066-21066/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:11:52.257 21066-21066/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:11:52.257 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+                                                                                
+                                                                                [ 02-18 23:11:52.278 21066:21083 D/         ]
+                                                                                HostConnection::get() New Host Connection established 0xa88f1bc0, tid 21083
+02-18 23:11:52.279 21066-21083/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 1
+02-18 23:11:52.279 21066-21083/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 0
+02-18 23:11:52.290 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglCreateContext: 0xb6a85480: maj 2 min 0 rcv 2
+02-18 23:11:52.310 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:11:52.325 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:11:56.020 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Opened tracks list
+02-18 23:11:57.045 21066-21066/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song 123 Go
+02-18 23:11:57.050 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:11:57.064 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:11:57.065 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:11:57.067 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:11:57.068 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:11:57.068 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:11:57.068 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:11 pm
+02-18 23:11:57.075 21066-21066/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:11:57.123 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:11:57.125 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:11:57.127 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:11:57.175 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:11:57.176 21066-21066/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:11:57.189 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:11:57.223 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:11:57.237 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:11:57.251 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:11:57.261 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:11:57.269 21066-21083/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88af600 (ListView) with handle 0x9b724090
+02-18 23:11:59.610 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:11:59.611 21066-21083/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85480: ver 2 0 (tinfo 0xb6a833d0)
+02-18 23:12:00.746 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.86%
+02-18 23:12:00.747 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:12:00.758 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:12:00.776 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:12:00.793 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 4.1239881842943183E-4
+02-18 23:12:00.794 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:12:01.265 21066-21066/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:12:01.433 21066-21066/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:12:01.433 21066-21066/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:12:01.587 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:12:01.588 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.8561639237349906%
+02-18 23:12:01.589 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:12:01.592 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:12:01.593 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:12:01.593 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.8561639237349906
+02-18 23:12:01.596 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:12:02.891 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:12:03.859 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.3253443050600376%
+02-18 23:12:03.860 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:12:03.875 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:12:03.893 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:12:03.909 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.3253443050600376
+02-18 23:12:03.909 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:12:05.142 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:12:05.499 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.4965761307400161%
+02-18 23:12:05.500 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:12:05.508 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:12:05.526 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:12:05.541 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.4965761307400161
+02-18 23:12:05.542 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:12:06.542 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:12:08.028 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.9315082287950281%
+02-18 23:12:08.029 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:12:08.030 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:12:08.042 21066-21066/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:12:08.059 21066-21066/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9315082287950281
+02-18 23:12:08.059 21066-21066/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast

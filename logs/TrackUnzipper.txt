@@ -1,0 +1,14 @@
+03-17 06:03:34.683 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Unzipping the album at /storage/emulated/0/Download/in-which-we-drift-endlessly-6.zip
+03-17 06:03:34.684 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting onward-float-pt-ii.mp3
+03-17 06:03:34.927 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting spiraling-stars.mp3
+03-17 06:03:35.057 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting transmission-002-the-blackhole.mp3
+03-17 06:03:35.147 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting crystallik-strangers.mp3
+03-17 06:03:35.225 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting dreaming-of-home.mp3
+03-17 06:03:35.303 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting enter-the-hunter.mp3
+03-17 06:03:35.380 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting euphoria.mp3
+03-17 06:03:35.458 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting interlocked.mp3
+03-17 06:03:35.543 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting internal-beauty.mp3
+03-17 06:03:35.621 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting into-the-water.mp3
+03-17 06:03:35.698 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting negative-light.mp3
+03-17 06:03:35.773 9992-10142/com.cse110.flashbackmusicplayer D/TrackUnzipper: Extracting onward-float-pt-i.mp3
+03-17 06:03:35.927 9992-9992/com.cse110.flashbackmusicplayer D/TrackUnzipper: Finished extraction

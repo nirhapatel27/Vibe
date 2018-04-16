@@ -1,0 +1,472 @@
+02-18 23:19:12.199 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: MainActivity has been created
+02-18 23:19:12.292 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:19:12.292 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:19:12.310 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from _123_go <123 Go, New & Best of Keaton Simons, Keaton Simons, 1/10>
+02-18 23:19:12.322 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from after_the_storm <After The Storm, Origins - The Best of Terry Oldfield, Terry Oldfield, 6/11>
+02-18 23:19:12.346 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from america_religious <America Religious, I Will Not Be Afraid (A Sampler), null, 5/7>
+02-18 23:19:12.352 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from at_midnight <At Midnight, I Will Not Be Afraid (A Sampler), null, 4/7>
+02-18 23:19:12.360 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from back_east <Back East, I Will Not Be Afraid (A Sampler), null, 6/7>
+02-18 23:19:12.363 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from beautiful_pain <Beautiful-Pain, New & Best of Keaton Simons, Keaton Simons, 5/10>
+02-18 23:19:12.369 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from blood_on_your_bootheels <Blood On Your Bootheels, I Will Not Be Afraid (A Sampler), null, 1/7>
+02-18 23:19:12.372 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_find_love <Can't Find Love, Love Is Everywhere, Stacy Jones, 2/11>
+02-18 23:19:12.377 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from cant_you_be_mine <Can't You Be Mine, Love Is Everywhere, Stacy Jones, 6/11>
+02-18 23:19:12.380 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from crane_city <Crane City, New & Best of Keaton Simons, Keaton Simons, 2/10>
+02-18 23:19:12.383 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from currently <Currently, New & Best of Keaton Simons, Keaton Simons, 6/10>
+02-18 23:19:12.387 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dead_dove_do_not_eat <Dead Dove Do Not Eat, Take Yourself Too Seriously, Forum, 2/6>
+02-18 23:19:12.390 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from dreamatorium <Dreamatorium, Take Yourself Too Seriously, Forum, 5/6>
+02-18 23:19:12.394 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from flight_of_the_eagle <Flight of the Eagle, Origins - The Best of Terry Oldfield, Terry Oldfield, 2/11>
+02-18 23:19:12.398 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from gotta_get_over_you <Gotta Get Over You, Love Is Everywhere, Stacy Jones, 8/11>
+02-18 23:19:12.401 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from hero_hell <Hero & Hell, New & Best of Keaton Simons, Keaton Simons, 8/10>
+02-18 23:19:12.404 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_fell_in_love <I Fell In Love, Love Is Everywhere, Stacy Jones, 5/11>
+02-18 23:19:12.407 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_just_want_to_tell_you_both_good_luck <I Just Want To Tell You Both Good Luck, Take Yourself Too Seriously, Forum, 6/6>
+02-18 23:19:12.415 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from i_will_not_be_afraid <I Will Not Be Afraid, I Will Not Be Afraid (A Sampler), null, 7/7>
+02-18 23:19:12.424 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from ill_be_on_my_way <I'll Be On My Way, Love Is Everywhere, Stacy Jones, 11/11>
+02-18 23:19:12.427 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from just_this_side_of_insane <Just This Side of Insane, New & Best of Keaton Simons, Keaton Simons, 10/10>
+02-18 23:19:12.430 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from lift_me_up <Lift Me Up, New & Best of Keaton Simons, Keaton Simons, 9/10>
+02-18 23:19:12.433 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from love_is_everywhere_1 <Love Is Everywhere 1, Love Is Everywhere, Stacy Jones, 9/11>
+02-18 23:19:12.437 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mangalam <Mangalam, Origins - The Best of Terry Oldfield, Terry Oldfield, 10/11>
+02-18 23:19:12.442 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from mojo_potion_61_49 <mojo potion #61/49, Love Is Everywhere, Stacy Jones, 1/11>
+02-18 23:19:12.446 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from om_namo_bhavagate <Om Namo Bhavagate, Origins - The Best of Terry Oldfield, Terry Oldfield, 11/11>
+02-18 23:19:12.451 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from one_stop_light <One Stop Light, Love Is Everywhere, Stacy Jones, 7/11>
+02-18 23:19:12.454 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from origin <Origin, Origins - The Best of Terry Oldfield, Terry Oldfield, 1/11>
+02-18 23:19:12.457 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from other_side <Other Side, New & Best of Keaton Simons, Keaton Simons, 7/10>
+02-18 23:19:12.461 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from reach_out <Reach Out, Origins - The Best of Terry Oldfield, Terry Oldfield, 4/11>
+02-18 23:19:12.464 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from set_me_free <Set Me Free, Origins - The Best of Terry Oldfield, Terry Oldfield, 9/11>
+02-18 23:19:12.467 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sisters_of_the_sun <Sisters Of The Sun, Take Yourself Too Seriously, Forum, 3/6>
+02-18 23:19:12.471 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_dancer <Sky Dancer, Origins - The Best of Terry Oldfield, Terry Oldfield, 3/11>
+02-18 23:19:12.474 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from sky_full_of_ghosts <Sky Full Of Ghosts, Take Yourself Too Seriously, Forum, 4/6>
+02-18 23:19:12.478 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from stomp_jump_boogie <Stomp Jump Boogie, Love Is Everywhere, Stacy Jones, 4/11>
+02-18 23:19:12.482 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from the_writing_on_the_wall <The Writing On The Wall, Origins - The Best of Terry Oldfield, Terry Oldfield, 5/11>
+02-18 23:19:12.487 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tightrope_walker <Tightrope Walker, I Will Not Be Afraid (A Sampler), null, 2/7>
+02-18 23:19:12.490 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from tough_girls_never_cry <Tough Girls Never Cry, Love Is Everywhere, Stacy Jones, 10/11>
+02-18 23:19:12.492 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from unstoppable <Unstoppable, New & Best of Keaton Simons, Keaton Simons, 4/10>
+02-18 23:19:12.495 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wait_for_heaven <Wait For Heaven, Love Is Everywhere, Stacy Jones, 3/11>
+02-18 23:19:12.499 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from waves <Waves, Origins - The Best of Terry Oldfield, Terry Oldfield, 8/11>
+02-18 23:19:12.502 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_i_go <When I Go, New & Best of Keaton Simons, Keaton Simons, 3/10>
+02-18 23:19:12.507 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from when_you_go <When You Go, I Will Not Be Afraid (A Sampler), null, 3/7>
+02-18 23:19:12.518 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from wilderness <Wilderness, Origins - The Best of Terry Oldfield, Terry Oldfield, 7/11>
+02-18 23:19:12.521 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Loaded song from windows_are_the_eyes_to_the_house <Windows Are The Eyes To The House, Take Yourself Too Seriously, Forum, 1/6>
+02-18 23:19:12.532 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:19:12.667 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:19:12.668 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+                                                                                
+                                                                                [ 02-18 23:19:12.693 22092:22110 D/         ]
+                                                                                HostConnection::get() New Host Connection established 0xa7e69fc0, tid 22110
+02-18 23:19:12.693 22092-22110/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 1
+02-18 23:19:12.694 22092-22110/com.cse110.flashbackmusicplayer D/OpenGLRenderer: Swap behavior 0
+02-18 23:19:12.703 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglCreateContext: 0xb6a85300: maj 2 min 0 rcv 2
+02-18 23:19:12.724 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:12.740 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:16.377 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Opened tracks list
+02-18 23:19:19.266 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song 123 Go
+02-18 23:19:19.270 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:19:19.283 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:19:19.283 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:19:19.285 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:19:19.285 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:19:19.285 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:19:19.285 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:19 pm
+02-18 23:19:19.295 22092-22092/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:19:19.348 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:19:19.350 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:19:19.351 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:19:19.355 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:19:19.355 22092-22092/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:19:19.430 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:19.462 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:19.471 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:19.484 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:19.493 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:19.500 22092-22110/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88ae800 (ListView) with handle 0xb6a83fb0
+02-18 23:19:21.284 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:19:21.438 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:19:21.438 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:19:24.360 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:24.360 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.02356907200675183
+02-18 23:19:24.360 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:24.374 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:26.078 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:19:26.079 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.9623278474699812%
+02-18 23:19:26.079 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:19:26.091 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:19:26.092 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:26.093 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9623278474699812
+02-18 23:19:26.093 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:31.099 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:31.100 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9861079142210457
+02-18 23:19:31.100 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:31.284 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:19:31.460 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:19:31.460 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:19:33.889 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track has finished
+02-18 23:19:33.889 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:19:34.008 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:19:34.060 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:34.076 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:34.093 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:35.075 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:35.129 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song Beautiful-Pain
+02-18 23:19:35.134 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Beautiful-Pain. This is the first song we are playing.
+02-18 23:19:35.134 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:19:35.147 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:19:35.148 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:19:35.148 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:19:35.148 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:19:35.148 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:19 pm
+02-18 23:19:35.155 22092-22092/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:19:35.166 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:19:35.167 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:19:35.168 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:19:35.211 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Beautiful-Pain false
+02-18 23:19:35.211 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Beautiful-Pain false
+02-18 23:19:35.211 22092-22092/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:19:35.223 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:35.242 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:35.254 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:35.267 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:35.274 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:35.278 22092-22110/com.cse110.flashbackmusicplayer D/OpenGLRenderer: endAllActiveAnimators on 0xa88ae800 (ListView) with handle 0x9cef12d0
+02-18 23:19:38.759 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:19:38.760 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.95%
+02-18 23:19:38.760 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:19:38.775 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:38.775 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:19:38.781 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:38.782 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 3.427313887836643E-4
+02-18 23:19:38.783 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:38.784 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 3.427313887836643E-4
+02-18 23:19:38.784 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:39.576 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:19:39.577 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.9537673395024984%
+02-18 23:19:39.577 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:19:39.592 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:19:39.593 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:39.593 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537673395024984
+02-18 23:19:39.598 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:39.598 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537673395024984
+02-18 23:19:39.599 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:41.284 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:19:41.444 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:19:41.444 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:19:44.598 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:44.599 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9716254487075419
+02-18 23:19:44.599 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:44.600 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9716254487075419
+02-18 23:19:44.600 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:46.634 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 50.0
+02-18 23:19:46.777 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:19:46.777 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 50.0
+02-18 23:19:49.599 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:49.600 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9896675505528798
+02-18 23:19:49.600 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:49.600 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9896675505528798
+02-18 23:19:49.600 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:52.824 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:19:52.871 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:52.888 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:52.894 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track has finished
+02-18 23:19:52.909 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:52.919 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:19:52.919 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:19:54.057 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Clicked on song Can't You Be Mine
+02-18 23:19:54.061 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Can't You Be Mine. This is the first song we are playing.
+02-18 23:19:54.062 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:19:54.064 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:54.069 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:19:54.070 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:19:54.070 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:19:54.070 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:19:54.070 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:19 pm
+02-18 23:19:54.083 22092-22092/com.cse110.flashbackmusicplayer D/TrackDisplayActivity: TrackDisplayActivity has been created
+02-18 23:19:54.097 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:19:54.099 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:19:54.100 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:19:54.142 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:19:54.143 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:19:54.143 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:19:54.143 22092-22092/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:19:54.152 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:54.172 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:54.179 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:54.193 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:54.203 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:55.938 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:19:55.939 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.95%
+02-18 23:19:55.939 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:19:55.941 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:19:55.941 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:19:55.943 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:55.943 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 3.0555564489931136E-4
+02-18 23:19:55.947 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:55.948 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 3.0555564489931136E-4
+02-18 23:19:55.948 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:55.958 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 3.0555564489931136E-4
+02-18 23:19:55.959 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:56.634 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 50.0
+02-18 23:19:56.806 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:19:56.806 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 50.0
+02-18 23:19:56.809 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:19:56.810 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.9503423831410477%
+02-18 23:19:56.810 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:19:56.825 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:19:56.826 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:19:56.827 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9503423831410477
+02-18 23:19:56.829 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:56.830 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9503423831410477
+02-18 23:19:56.830 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:19:56.831 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9503423831410477
+02-18 23:19:56.831 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:01.834 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:01.834 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9662634404279066
+02-18 23:20:01.835 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:01.835 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9662634404279066
+02-18 23:20:01.835 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:01.835 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9662634404279066
+02-18 23:20:01.835 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:06.635 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 50.0
+02-18 23:20:06.806 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:20:06.806 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 50.0
+02-18 23:20:06.837 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:06.837 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9823549656008671
+02-18 23:20:06.837 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:06.837 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9823549656008671
+02-18 23:20:06.838 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:06.838 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9823549656008671
+02-18 23:20:06.838 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:11.844 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:11.844 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9984593562746655
+02-18 23:20:11.845 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:11.845 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9984593562746655
+02-18 23:20:11.845 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:11.845 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9984593562746655
+02-18 23:20:11.845 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:13.749 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track has finished
+02-18 23:20:13.749 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:13.749 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:13.749 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:14.147 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:20:14.199 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:15.164 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Music system destroyed.
+02-18 23:20:15.167 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Starting flashback mode
+02-18 23:20:15.183 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been destroyed
+02-18 23:20:15.186 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:15.186 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:15.190 22092-22092/com.cse110.flashbackmusicplayer D/FlashbackActivity: FlashbackActivity has been created
+02-18 23:20:15.204 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:15.205 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:15.205 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: Generated FlashbackList
+02-18 23:20:15.205 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The list is not empty
+02-18 23:20:15.205 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The list is not empty
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The database state has not changed
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Can't You Be Mine
+02-18 23:20:15.213 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:20:15.215 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:20:15.216 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Can't You Be Mine. This is the first song we are playing.
+02-18 23:20:15.217 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:20:15.262 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:20:15.262 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:20:15.263 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:15.263 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:15.263 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:20:15.263 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:20 pm
+02-18 23:20:15.271 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:15.292 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:15.295 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:20:15.295 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:20:15.295 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:20:15.295 22092-22092/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:20:15.300 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:15.315 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:15.320 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:16.635 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 50.0
+02-18 23:20:16.809 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:20:16.809 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 50.0
+02-18 23:20:19.924 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:20.297 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:20.297 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.01584386428183166
+02-18 23:20:20.297 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:20.297 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.01584386428183166
+02-18 23:20:20.297 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:20.297 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.01584386428183166
+02-18 23:20:20.298 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:20.701 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Going back to the previous screen.
+02-18 23:20:20.755 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:20.772 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:20.794 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:21.044 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Music system destroyed.
+02-18 23:20:21.044 22092-22092/com.cse110.flashbackmusicplayer D/FlashbackActivity: FlashbackActivity has been destroyed
+02-18 23:20:21.056 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been destroyed
+02-18 23:20:21.057 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:21.057 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:22.342 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:26.636 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 50.0
+02-18 23:20:26.809 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:20:26.809 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 50.0
+02-18 23:20:30.199 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:20:30.339 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:20:30.339 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:20:32.342 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Music system destroyed.
+02-18 23:20:32.351 22092-22092/com.cse110.flashbackmusicplayer D/MainActivity: Starting flashback mode
+02-18 23:20:32.354 22092-22092/com.cse110.flashbackmusicplayer D/FlashbackActivity: FlashbackActivity has been created
+02-18 23:20:32.369 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:32.369 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:32.370 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: Generated FlashbackList
+02-18 23:20:32.370 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The list is not empty
+02-18 23:20:32.370 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:20:32.372 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:20:32.373 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: New song callback set
+02-18 23:20:32.373 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The list is not empty
+02-18 23:20:32.373 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:32.373 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:32.373 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The database state has not changed
+02-18 23:20:32.373 22092-22092/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Beautiful-Pain
+02-18 23:20:32.373 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:20:32.375 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:20:32.375 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Beautiful-Pain. This is the first song we are playing.
+02-18 23:20:32.376 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:20:32.411 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been created
+02-18 23:20:32.412 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:20:32.412 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:32.412 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:32.412 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:20:32.412 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:20 pm
+02-18 23:20:32.420 22092-22110/com.cse110.flashbackmusicplayer D/EGL_emulation: eglMakeCurrent: 0xb6a85300: ver 2 0 (tinfo 0xb6a832f0)
+02-18 23:20:32.444 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Beautiful-Pain false
+02-18 23:20:32.445 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Beautiful-Pain false
+02-18 23:20:32.445 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Beautiful-Pain false
+02-18 23:20:32.445 22092-22092/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:20:36.189 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:20:36.189 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on NaN%
+02-18 23:20:36.190 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:20:36.208 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:20:36.209 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:36.210 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:20:36.210 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:36.210 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:20:36.210 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:36.210 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.0
+02-18 23:20:36.213 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:36.973 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:20:36.974 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.9537673395024984%
+02-18 23:20:36.974 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:20:36.991 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:20:36.992 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:36.993 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537673395024984
+02-18 23:20:36.993 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:36.998 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537673395024984
+02-18 23:20:36.998 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:36.998 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537673395024984
+02-18 23:20:36.998 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:40.198 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:20:40.336 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:20:40.337 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:20:41.994 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:41.994 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9716398795028591
+02-18 23:20:41.994 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:41.994 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9716398795028591
+02-18 23:20:41.994 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:41.994 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9716398795028591
+02-18 23:20:41.995 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:46.995 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:46.996 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9896855890470263
+02-18 23:20:46.996 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:46.996 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9896855890470263
+02-18 23:20:46.996 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:46.996 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9896855890470263
+02-18 23:20:46.997 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:50.198 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:20:50.359 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:20:50.359 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:20:50.360 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track has finished
+02-18 23:20:50.360 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:50.360 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:50.361 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:20:50.361 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The list is not empty
+02-18 23:20:50.361 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:50.361 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:50.361 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The database state has not changed
+02-18 23:20:50.361 22092-22092/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song 123 Go
+02-18 23:20:50.361 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:20:50.362 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:20:50.363 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Playing 123 Go. This is the first song we are playing.
+02-18 23:20:50.364 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:20:50.364 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: The next song in the list is 123 Go
+02-18 23:20:50.377 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:20:50.377 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:20:50.378 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:20:50.378 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:20:50.378 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:20 pm
+02-18 23:20:50.391 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:20:50.391 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:20:50.391 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:20:50.392 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: 123 Go false
+02-18 23:20:50.392 22092-22092/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer
+02-18 23:20:53.023 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:20:53.023 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on NaN%
+02-18 23:20:53.024 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:20:53.024 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:20:53.041 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:53.042 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 1.4865538803851612E-4
+02-18 23:20:53.042 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:53.043 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 1.4865538803851612E-4
+02-18 23:20:53.043 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:53.043 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 1.4865538803851612E-4
+02-18 23:20:53.043 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:53.043 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 1.4865538803851612E-4
+02-18 23:20:53.044 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:53.399 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar pressed
+02-18 23:20:53.399 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Seek bar released on 0.9537681743200215%
+02-18 23:20:53.400 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Sent SEEK message to mediaservice
+02-18 23:20:53.409 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService has been started with ACTION_SEEK
+02-18 23:20:53.410 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537681743200215
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537681743200215
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537681743200215
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9537681743200215
+02-18 23:20:53.416 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track progress broadcast sent
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9774667203744197
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9774667203744197
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9774667203744197
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:20:58.415 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to 0.9774667203744197
+02-18 23:20:58.416 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received progress broadcast
+02-18 23:21:00.199 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: The location changed to 3.0 152.0
+02-18 23:21:00.365 22092-22092/com.cse110.flashbackmusicplayer D/LocationSystem: No place name could be extracted
+02-18 23:21:00.365 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Set the latitude and longitude to 3.0 152.0
+02-18 23:21:03.126 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: Track has finished
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: null false
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The list is not empty
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/SongDatabase: The database state has not changed
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/FlashbackActivity: Retrieved song Can't You Be Mine
+02-18 23:21:03.127 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Drawing the UI
+02-18 23:21:03.129 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Set favorite/dislike image to neutral
+02-18 23:21:03.129 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Playing Can't You Be Mine. This is the first song we are playing.
+02-18 23:21:03.130 22092-22092/com.cse110.flashbackmusicplayer D/SongCallbackUI: Moving seekbar to NaN
+02-18 23:21:03.130 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: The next song in the list is Can't You Be Mine
+02-18 23:21:03.144 22092-22092/com.cse110.flashbackmusicplayer D/MediaService: MediaService started with ACTION_START
+02-18 23:21:03.145 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: Returned Evening. The hour is: 23
+02-18 23:21:03.145 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The day of week is 1
+02-18 23:21:03.145 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The date is 2/18/2018
+02-18 23:21:03.145 22092-22092/com.cse110.flashbackmusicplayer D/UserStateImpl: The time is 11:21 pm
+02-18 23:21:03.158 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:21:03.159 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:21:03.159 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:21:03.159 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:21:03.159 22092-22092/com.cse110.flashbackmusicplayer D/MusicSystem: Received song name and paused state: Can't You Be Mine false
+02-18 23:21:03.159 22092-22092/com.cse110.flashbackmusicplayer D/MediaPlayer: setSubtitleAnchor in MediaPlayer

@@ -1,0 +1,14 @@
+Unstaged changes after reset:
+D	.idea/compiler.xml
+D	.idea/copyright/profiles_settings.xml
+M	.idea/modules.xml
+M	app/src/main/java/com/cse110/flashbackmusicplayer/CurrentTrackDisplay.java
+M	app/src/main/java/com/cse110/flashbackmusicplayer/MainActivity.java
+M	app/src/main/java/com/cse110/flashbackmusicplayer/Song.java
+M	app/src/main/java/com/cse110/flashbackmusicplayer/SongDatabase.java
+M	app/src/main/res/drawable/nocover.png
+D	app/src/main/res/drawable/pause.png
+D	app/src/main/res/drawable/play.png
+M	app/src/main/res/layout/content_current_track_display.xml
+M	app/src/main/res/values/strings.xml
+D	drawable/nocover.png
